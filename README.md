@@ -10,10 +10,10 @@ Flow: Home Page > View all Customers > Select and View one Customer > Transfer M
 > Database : MySql
 
 🔗 Youtube link : 
-https://lnkd.in/eJJKuHf
+https://lnkd.in/gK5TGDF
 
 🔗 website Link :
-https://lnkd.in/ecqaeQr
+https://lnkd.in/gTVEPa9
 
 🔗 Linkedin Link :
-https://www.linkedin.com/posts/neet-patel-80239b208_banking-system-the-spark-foundation-activity-6797119048367837184-dvHZ
+https://www.linkedin.com/posts/er-rajat_task1-thesparksfoundation-internship-activity-6800705914790924288-6Ppc
